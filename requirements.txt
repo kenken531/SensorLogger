@@ -1,0 +1,6 @@
+numpy
+psutil
+pyaudio
+opencv-python
+pynput
+rich
